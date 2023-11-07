@@ -1,6 +1,9 @@
 # Folders
 */data/*
 
+*.zip
+*.torch
+
 # VSCode
 .vscode/*
 !.vscode/settings.json
